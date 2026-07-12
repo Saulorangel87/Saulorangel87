@@ -37,11 +37,9 @@ Sou um **desenvolvedor Frontend** apaixonado por criar experiências web incrív
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saulorangel87&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saulorangel87&theme=dark&show_icons=true&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Saulorangel87&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulorangel87&theme=tokyonight&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saulorangel87&theme=dark&layout=compact&hide_border=false)
 
 </div>
 
@@ -51,7 +49,6 @@ Sou um **desenvolvedor Frontend** apaixonado por criar experiências web incrív
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulorangel87)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saulorangel87)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
 
 ---
 
@@ -73,7 +70,7 @@ Estou em uma jornada de crescimento contínuo:
 
 ## 📌 Dica
 
-Se você gostou de algo que fez aqui, considere dar uma ⭐ nos repositórios! Isso me motiva a continuar criando conteúdo de qualidade.
+Se você gostou de algo que fiz aqui, considere dar uma ⭐ nos repositórios! Isso me motiva a continuar criando conteúdo de qualidade.
 
 ---
 
