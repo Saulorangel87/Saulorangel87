@@ -24,13 +24,10 @@ Sou apaixonado por tecnologia desde a infância e, hoje, aplico essa paixão no 
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## 📊 Estatísticas
+
 <div align="center">
-
-<!-- Versão correta para renderizar a imagem -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SauloRangel87&theme=dark&show_icons=true&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloRangel87&theme=dark&layout=compact&hide_border=false)
-
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=SauloRangel87&theme=dark&show_icons=true&hide_border=false" alt="SauloRangel87 GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloRangel87&theme=dark&layout=compact&hide_border=false" alt="SauloRangel87 Top Languages" />
 </div>
 
 ## 💼 Meus Projetos Destacados
