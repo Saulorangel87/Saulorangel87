@@ -26,10 +26,9 @@ Sou apaixonado por tecnologia desde a infância e, hoje, aplico essa paixão no 
 ## 📊 Estatísticas
 <div align="center">
 
-<!-- CORRIGIDO: Username alterado para SauloRangel87 (respeitando maiúsculas/minúsculas) -->
+<!-- Versão correta para renderizar a imagem -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SauloRangel87&theme=dark&show_icons=true&hide_border=false)
 
-<!-- CORRIGIDO: Username alterado para SauloRangel87 (respeitando maiúsculas/minúsculas) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SauloRangel87&theme=dark&layout=compact&hide_border=false)
 
 </div>
