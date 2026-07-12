@@ -26,8 +26,8 @@ Sou apaixonado por tecnologia desde a infância e, hoje, aplico essa paixão no 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=SauloRangel87&theme=dark&show_icons=true&hide_border=false" alt="SauloRangel87 GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauloRangel87&theme=dark&layout=compact&hide_border=false" alt="SauloRangel87 Top Languages" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Saulorangel87&theme=dark&show_icons=true&hide_border=false" alt="Saulorangel87 GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulorangel87&theme=dark&layout=compact&hide_border=false" alt="Saulorangel87 Top Languages" />
 </div>
 
 ## 💼 Meus Projetos Destacados
