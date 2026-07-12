@@ -76,6 +76,6 @@ Se você gostou de algo que fiz aqui, considere dar uma ⭐ nos repositórios! I
 
 <div align="center">
 
-**Feito com ❤️ por Saulo Rangel**
+**Feito por Saulo Rangel**
 
 </div>
