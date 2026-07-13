@@ -26,12 +26,11 @@ Sou apaixonado por tecnologia desde a infância e, hoje, aplico essa paixão no 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Saulorangel87&theme=dark&show_icons=true&hide_border=false&cache_seconds=1800" alt="Saulorangel87 GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulorangel87&theme=dark&layout=compact&hide_border=false&cache_seconds=1800" alt="Saulorangel87 Top Languages" />
+  <img height="195" src="https://saulorangel87.vercel.app/api?username=Saulorangel87&theme=dark&show_icons=true&hide_border=false&cache_seconds=1800" alt="Saulorangel87 GitHub Stats" />
+  <img height="195" src="https://saulorangel87.vercel.app/api/top-langs/?username=Saulorangel87&theme=dark&layout=compact&hide_border=false&cache_seconds=1800" alt="Saulorangel87 Top Languages" />
 </div>
 
-> Nota: Se as imagens acima estiverem aparecendo como "quebradas", o serviço público (github-readme-stats) pode estar temporariamente indisponível ou sobrecarregado. Uma solução duradoura é self-hostear o projeto "github-readme-stats" no Vercel (deploy próprio) — isso evita limites e quedas do serviço público. Veja um guia útil aqui:
-> https://dev.to/uya0526design/self-host-your-github-stats-badge-on-vercel-fixing-the-broken-image-on-your-profile-readme-la0
+> Nota: As imagens acima agora vêm da minha própria instância (saulorangel87.vercel.app). Se ainda aparecerem quebradas, aguarde alguns minutos e recarregue — ou volte aqui que eu verifico os logs do deploy.
 
 ## 💼 Meus Projetos Destacados
 Confira meus repositórios fixados abaixo! Neles você encontra projetos desenvolvidos com foco em boas práticas, código limpo e documentação clara.
