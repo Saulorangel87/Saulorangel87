@@ -23,14 +23,6 @@ Sou apaixonado por tecnologia desde a infância e, hoje, aplico essa paixão no 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 Estatísticas
-
-<div align="center">
-  <img height="195" src="https://saulorangel87.vercel.app/api?username=Saulorangel87&theme=dark&show_icons=true&hide_border=false&cache_seconds=1800" alt="Saulorangel87 GitHub Stats" />
-  <img height="195" src="https://saulorangel87.vercel.app/api/top-langs/?username=Saulorangel87&theme=dark&layout=compact&hide_border=false&cache_seconds=1800" alt="Saulorangel87 Top Languages" />
-</div>
-
-> Nota: As imagens acima agora vêm da minha própria instância (saulorangel87.vercel.app). Se ainda aparecerem quebradas, aguarde alguns minutos e recarregue — ou volte aqui que eu verifico os logs do deploy.
 
 ## 💼 Meus Projetos Destacados
 Confira meus repositórios fixados abaixo! Neles você encontra projetos desenvolvidos com foco em boas práticas, código limpo e documentação clara.
