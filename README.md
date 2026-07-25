@@ -181,15 +181,14 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Saulorangel87&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Saulorangel87&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saulorangel87&theme=tokyonight" />
 
 </div>
+
 ---
 
 # 🔥 Sequência de Contribuições
