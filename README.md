@@ -189,7 +189,13 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saulorangel87&theme=tokyonight" />
+---
+
+# 💻 Linguagens mais utilizadas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saulorangel87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
