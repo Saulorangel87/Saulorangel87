@@ -181,11 +181,15 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 
 ---
 
-# 📊 Estatísticas
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saulorangel87&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saulorangel87&theme=tokyonight" />
 
 </div>
 
