@@ -226,6 +226,10 @@ Minha evolução atual:
 
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Saulorangel87/Saulorangel87/output/github-contribution-grid-snake.svg" />
+</p>
+
 **Feito por Saulo Rangel 🚀**
 
 Transformando aprendizado em projetos reais.
