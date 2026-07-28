@@ -201,16 +201,6 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 
 ---
 
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Saulorangel87&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🎯 Objetivos de Aprendizado
 
 Minha evolução atual:
