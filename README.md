@@ -191,7 +191,7 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 
 ---
 
-# 💻 Linguagens mais utilizadas
+## 💻 Linguagens mais utilizadas
 
 <div align="center">
 
