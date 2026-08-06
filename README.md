@@ -139,7 +139,7 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 - JavaScript
 
 - 🔗 Em construção
-- https://saulorangel87.github.io/rotacddcampos/
+- https://cddcampos.devsaulo.com.br/
 
 ---
 
