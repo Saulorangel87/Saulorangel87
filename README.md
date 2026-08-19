@@ -203,8 +203,6 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 
 ### 📡 Status das Aplicações em Tempo Real
 
-### 📡 Status das Aplicações em Tempo Real
-
 | Aplicação | Status | Tempo de Resposta | Uptime (24h) |
 | :--- | :---: | :---: | :---: |
 | [**App Controle Financeiro**](https://despesas.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/2/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/2/ping) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/2/uptime/24) |
