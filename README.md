@@ -205,10 +205,11 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 
 | Aplicação | Status | Tempo de Resposta | Uptime (24h) |
 | :--- | :---: | :---: | :---: |
-| [**App Controle Financeiro**](https://despesas.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/2/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/2/ping) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/2/uptime/24) |
-| [**Controle de estoque**](https://estoque.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/4/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/4/ping) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/4/uptime/24) |
-| [**Rota Cdd Campos**](https://cddcampos.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/5/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/5/ping) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/5/uptime/24) |
-| [**n8n Automations**](https://n8n.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/6/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/6/ping) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/6/uptime/24) |
+| [**App Controle Financeiro**](https://despesas.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/2/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/2/ping/1) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/2/uptime/24) |
+| [**Controle de estoque**](https://estoque.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/4/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/4/ping/1) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/4/uptime/24) |
+| [**Rota Cdd Campos**](https://cddcampos.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/5/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/5/ping/1) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/5/uptime/24) |
+| [**n8n Automations**](https://n8n.devsaulo.com.br/) | ![Status](https://uptime.devsaulo.com.br/api/badge/6/status) | ![Ping](https://uptime.devsaulo.com.br/api/badge/6/ping/1) | ![Uptime](https://uptime.devsaulo.com.br/api/badge/6/uptime/24) |
+
 
 # 🎯 Objetivos de Aprendizado
 
