@@ -1,145 +1,100 @@
 # Olá, eu sou o Saulo Rangel! 👋
 
-<div align="center">
+## Desenvolvedor de software em formação
 
-🚀 Desenvolvedor Full Stack em formação  
-💻 Criando aplicações web com foco em soluções reais  
-📚 Estudante de Análise e Desenvolvimento de Sistemas  
+Estudante do 2º semestre de **Análise e Desenvolvimento de Sistemas (ADS)** na Estácio, com conclusão prevista para **julho de 2028**. Estou em transição de carreira para desenvolvimento e busco uma oportunidade de **estágio em tecnologia**.
 
-</div>
+Tenho **13 anos de experiência nos Correios**, em um contexto operacional e logístico. Essa trajetória fortaleceu minha organização, responsabilidade, análise de processos e capacidade de transformar necessidades reais em soluções práticas.
 
----
+Atualmente desenvolvo e mantenho aplicações full stack, participando de todo o ciclo: interface, APIs, banco de dados, autenticação, containers, deploy e acompanhamento em produção.
 
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedor em formação, apaixonado por tecnologia e pela criação de soluções que possam melhorar processos reais.
-
-Minha trajetória profissional começou muito antes da programação: tenho **13 anos de experiência nos Correios**, onde desenvolvi habilidades como organização, resolução de problemas, análise de processos e atendimento às necessidades do dia a dia.
-
-Atualmente estou direcionando essa experiência para o desenvolvimento de software, criando aplicações que unem tecnologia e problemas reais.
-
-Meu objetivo é evoluir como desenvolvedor **Full Stack**, trabalhando com interfaces modernas, APIs, banco de dados, arquitetura de aplicações e infraestrutura.
+[LinkedIn](https://www.linkedin.com/in/saulorangel87/) · [E-mail](mailto:saulorangel10@hotmail.com)
 
 ---
 
-# 🚀 Minha Jornada
+## 🚀 Projetos em destaque
 
-🎓 **Formação**
-
-- Análise e Desenvolvimento de Sistemas (ADS) — Estácio de Sá
-
-💼 **Experiência**
-
-- 13 anos de experiência nos Correios
-- Vivência com processos operacionais e melhoria de fluxo de trabalho
-
-💻 **Desenvolvimento**
-
-Atualmente estudando e aplicando:
-
-- Desenvolvimento Frontend moderno
-- APIs REST
-- Backend com Go
-- Banco de dados
-- Docker e Deploy
-- Boas práticas de desenvolvimento
-
----
-
-# 💼 Projetos em Destaque
-
-## 📦 Sistema de Controle de Estoque Full Stack
-
-Aplicação web completa para gerenciamento de estoque, desenvolvida pensando em uma utilização real.
-
-O projeto conta com frontend, backend, banco de dados, autenticação e deploy em ambiente de produção.
-
-### Funcionalidades:
-
-✅ Cadastro e autenticação de usuários  
-✅ Login utilizando JWT  
-✅ Recuperação de acesso por pergunta de segurança  
-✅ Cadastro, edição e exclusão de produtos  
-✅ Controle de entrada e saída de estoque  
-✅ Alertas de estoque baixo  
-✅ Dashboard com indicadores  
-✅ Busca e filtros  
-✅ Tema claro/escuro  
-
-### Tecnologias:
-
-**Frontend**
-- React 19
-- Vite
-- React Router
-- CSS
-
-**Backend**
-- Go (Golang)
-- API REST
-- SQLite
-- JWT
-- bcrypt
-
-**Infraestrutura**
-- Docker
-- Docker Compose
-- Nginx
-- Linux
-- Cloudflare Tunnel
-
-🔗 Projeto:
-https://estoque.devsaulo.com.br
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🚴 Cadência — Treinos de ciclismo</h3>
+<p>Aplicação full stack para planejamento e acompanhamento de treinos, com regras de negócio, autenticação, API REST e experiência PWA.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+<p><a href="https://github.com/Saulorangel87/App-de-treino">📁 Ver repositório</a><br><a href="https://cadencia.devsaulo.com.br/">🌐 Acessar aplicação</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>📦 Controle de Estoque</h3>
+<p>Aplicação full stack para cadastro de produtos, entradas e saídas, alertas de estoque baixo, dashboard e autenticação.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+<p><a href="https://github.com/Saulorangel87/App-controle-de-estoque">📁 Ver repositório</a><br><a href="https://estoque.devsaulo.com.br/">🌐 Acessar aplicação</a></p>
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🗺️ Sistema de Rotas</h3>
+<p>Ferramenta aplicada a um contexto logístico real para digitalizar a consulta e a organização de rotas, conectando visualização geográfica, dados espaciais e fluxos operacionais.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Go%2FFiber-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go/Fiber" />
+<img src="https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+<p><a href="https://cddcampos.devsaulo.com.br/">🔒 Demonstração com acesso controlado</a></p>
+</td>
+<td width="50%" valign="top">
+<h3>💰 Controle de Despesas</h3>
+<p>Aplicação full stack para organização financeira pessoal, com autenticação, receitas e despesas, categorias, relatórios e interface PWA.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+<p><a href="https://github.com/Saulorangel87/App-controle-financeiro">📁 Ver repositório</a><br><a href="https://despesas.devsaulo.com.br/">🌐 Acessar aplicação</a></p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💰 Sistema de Controle Financeiro
+## 🧩 Competências técnicas
 
-Aplicação desenvolvida para organização financeira pessoal, com foco no controle de receitas, despesas e acompanhamento financeiro.
 
-O objetivo do projeto é transformar o gerenciamento financeiro em uma experiência simples e intuitiva.
+**Frontend:** React, TypeScript, JavaScript, Vite, HTML5, CSS3, interfaces responsivas e PWA  
+**Backend:** Go, Node.js, Express, APIs REST, autenticação e JWT  
+**Dados:** PostgreSQL, PostGIS, SQLite e SQL  
+**Engenharia:** integração frontend/backend, regras de negócio, documentação técnica e troubleshooting  
+**Ferramentas:** Git, GitHub, Docker, Docker Compose e VS Code
 
-### Funcionalidades:
+## ☁️ Infraestrutura e entrega
 
-✅ Cadastro de receitas e despesas  
-✅ Organização dos lançamentos financeiros  
-✅ Controle financeiro pessoal  
-✅ Visualização de informações importantes  
-✅ Interface responsiva  
+- Containerização e execução com **Docker** e **Docker Compose**
+- Administração de ambientes **Linux** e configuração de **Nginx**
+- Deploy e manutenção de aplicações em **VPS/Oracle Cloud**
+- Exposição segura de serviços com **Cloudflare Tunnel**
+- Aplicações publicadas com monitoramento de disponibilidade e tempo de resposta
+- Experiência prática com configuração de ambientes, APIs, banco de dados e rotinas de deploy
 
-### Tecnologias:
+## 🎓 Formação e trajetória
 
-- React
-- JavaScript
-- CSS
-- APIs
-- Banco de dados
-
-- 🔗 Projeto:
-https://despesas.devsaulo.com.br
-
----
-
-## 📍 Sistema de Rotas
-
-Aplicação criada para digitalizar e otimizar o processo de planejamento de rotas.
-
-O projeto nasceu da necessidade de substituir processos manuais utilizando mapas físicos por uma solução digital.
-
-### Objetivos:
-
-✅ Melhor organização das rotas  
-✅ Facilidade no planejamento  
-✅ Redução de processos manuais  
-
-### Tecnologias:
-
-- HTML
-- CSS
-- JavaScript
-
-- 🔗 Em construção
-- https://cddcampos.devsaulo.com.br/
+- **Análise e Desenvolvimento de Sistemas — Estácio** — 2º semestre; conclusão prevista para julho de 2028
+- **Correios — Agente de Correios / Carteiro Motorizado** — desde 11/03/2013
+- Em transição de carreira e em busca de estágio em desenvolvimento de software
 
 ---
 
@@ -160,7 +115,6 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -216,22 +170,20 @@ O projeto nasceu da necessidade de substituir processos manuais utilizando mapas
 
 Minha evolução atual:
 
-✅ HTML, CSS e JavaScript  
-✅ React e desenvolvimento Frontend  
-✅ APIs REST  
-✅ Backend com Go  
-🔄 TypeScript  
-🔄 Node.js  
-📚 Arquitetura de aplicações  
-🚀 DevOps e Cloud Computing  
+✅ React, TypeScript e desenvolvimento Frontend  
+✅ APIs REST e Backend com Go/Node.js  
+✅ PostgreSQL, PostGIS e SQLite  
+✅ Docker, Linux, Nginx e deploy em VPS  
+🔄 Testes automatizados e observabilidade  
+📚 Arquitetura de aplicações e segurança de APIs  
 
 ---
 
 # 🌎 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulorangel87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulorangel87/)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sauloleonardo1987@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:saulorangel10@hotmail.com)
 
 ---
 
