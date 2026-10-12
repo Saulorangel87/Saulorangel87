@@ -144,15 +144,17 @@ flowchart TB
   LGR -->|e-mails de conta| RS[Resend]
   CAD -->|e-mails| RS
   KUMA -.->|verifica disponibilidade| APPS
-  PG1 -.->|backup diário<br/>criptografado| BK[(Oracle Object Storage)]
+  PG1 -.->|backup diário<br/>criptografado| BK[(Oracle Object Storage<br/>backups-vps · 30 dias)]
   PG2 -.->|backup diário| BK
+  PG3 -.->|backup diário| BK
+  SQ1 -.->|backup diário| BK
   SQ2 -.->|backup diário| BK
 ```
 
 - **Containers Docker** para cada serviço, em servidor Linux (ARM64) com **Docker Compose**. A API do Let's Go Run roda sem root, com sistema de arquivos somente leitura.
 - **Cloudflare Tunnel** para expor os serviços, **Cloudflare Pages** para o front do Let's Go Run e SSL em todos os domínios.
 - **Bancos privados:** PostgreSQL e SQLite só na rede interna do Docker, sem porta publicada na internet.
-- **Backups diários** automatizados, com cópia externa no Oracle Object Storage (criptografada no Let's Go Run e no Controle de Despesas) e teste de restauração mensal automatizado no Cadência.
+- **Backups diários** dos bancos das cinco aplicações, criptografados antes de sair da VPS e guardados em um único bucket do Oracle Object Storage (uma pasta por projeto, retenção de 30 dias e sem permissão de apagar pela VPS). A restauração é testada; no Cadência o teste é mensal e automatizado.
 - **Monitoramento** de disponibilidade e tempo de resposta com **Uptime Kuma**, com os resultados ao vivo logo abaixo.
 - **Entrega contínua de qualidade:** GitHub Actions com lint, tipos, testes, gitleaks e `pnpm audit`; Dependabot para dependências.
 
